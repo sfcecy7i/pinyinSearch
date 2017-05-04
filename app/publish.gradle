@@ -68,4 +68,3 @@ bintray {
         publish = true
     }
 }
-apply from: './publish.gradle'

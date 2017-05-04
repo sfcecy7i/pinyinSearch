@@ -31,3 +31,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.belerweb:pinyin4j:2.5.1'
 }
+
+apply from: './publish.gradle'
